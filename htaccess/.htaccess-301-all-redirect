@@ -1,0 +1,5 @@
+#Redirect 301 / https://website.tld/
+
+#Options +FollowSymLinks
+#RewriteEngine on
+#RewriteRule (.*) https://website.tld/$1 [R=301,L]

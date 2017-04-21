@@ -1,0 +1,19 @@
+# BEGIN Simple Security
+
+	# Enable the hide backend feature
+	RewriteRule ^(/)?customlogin/?$ /wp-login.php [QSA,L]
+
+	<IfModule mod_rewrite.c>
+		RewriteEngine On
+
+		# Disable PHP in Uploads
+		RewriteRule ^wp-content\-uploads/.*\.(?:php[1-6]?|pht|phtml?)$ - [NC,F]
+
+		# Filter Request Methods
+		RewriteCond %{REQUEST_METHOD} ^(TRACE|DELETE|TRACK) [NC]
+		RewriteRule ^.* - [F]
+
+	</IfModule>
+# END Simple Security
+
+
