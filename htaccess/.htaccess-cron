@@ -1,0 +1,14 @@
+# if you use htpasswd then enable cron and admin-ajax.
+
+<Files "wp-cron.php">
+Allow from YOUR_SERVERIP
+Satisfy Any
+</Files>
+
+
+<Files "admin-ajax.php">
+Allow from YOUR_SERVERIP
+Satisfy Any
+</Files>
+
+
