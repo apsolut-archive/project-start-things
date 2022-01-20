@@ -22,7 +22,7 @@
 * [Portable ZIP](https://github.com/spyrosoft/portable-zip)
 
 
-# Awesole list
+# Awesome list
 * [Awesome collection](https://github.com/sindresorhus/awesome)
 
 * [Awesome windows](https://github.com/Awesome-Windows/Awesome)
