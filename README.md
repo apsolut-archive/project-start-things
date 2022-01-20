@@ -22,26 +22,18 @@
 * [Portable ZIP](https://github.com/spyrosoft/portable-zip)
 
 
-# Full Awesome list 
+# Awesole list
 * [Awesome collection](https://github.com/sindresorhus/awesome)
 
-### For full Windows list please visit:
 * [Awesome windows](https://github.com/Awesome-Windows/Awesome)
 
-### For full htaccess:
 * [Awesome htaccess](https://github.com/apsolut/htaccess)
-
-### For full PHP:
 * [Awesome PHP](https://github.com/apsolut/awesome-php)
 
-### For full SHELL:
 * [Awesome SHELL](https://github.com/apsolut/awesome-shell)
 
-### For full ACF:
 * [Awesome ACF](https://github.com/apsolut/awesome-acf)
 
-### For image stocks:
 * [Awesome Images](https://github.com/apsolut/awesome-images)
 
-### For full git:
 * [Git Cheatsheet](https://github.com/tiimgreen/github-cheat-sheet#readme)
